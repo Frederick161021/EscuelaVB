@@ -1,0 +1,9 @@
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\bin\Debug\Escolar.Contracts.dll
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\bin\Debug\Escolar.Contracts.pdb
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\bin\Debug\Escolar.Contracts.xml
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\obj\Debug\Escolar.Contracts.Resources.resources
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\obj\Debug\Escolar.Contracts.vbproj.GenerateResource.Cache
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\obj\Debug\Escolar.Contracts.dll
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\obj\Debug\Escolar.Contracts.xml
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.Contracts\obj\Debug\Escolar.Contracts.pdb

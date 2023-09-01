@@ -1,0 +1,9 @@
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\obj\Debug\Escolar.BusinessCore.Resources.resources
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\obj\Debug\Escolar.BusinessCore.vbproj.GenerateResource.Cache
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\bin\Debug\Escolar.BusinessCore.dll
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\bin\Debug\Escolar.BusinessCore.pdb
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\bin\Debug\Escolar.BusinessCore.xml
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\obj\Debug\Escolar.BusinessCore.dll
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\obj\Debug\Escolar.BusinessCore.xml
+C:\Users\togae\OneDrive\Documentos\Visual Studio 2008\Projects\Escuela\Escolar.BusinessCore\obj\Debug\Escolar.BusinessCore.pdb
